@@ -2,3 +2,7 @@ This is a text file for testing.
 
 
 Adding new line to the first text file
+
+
+Chnaged the file again - and will commit in "first branch"
+
